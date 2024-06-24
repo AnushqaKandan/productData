@@ -1,0 +1,99 @@
+{
+
+"result": [
+    {
+        "productName": "Pearl Jhumkas",
+        "category": "Jhumkas",
+        "description": "Timeless classics that brings a touch of sophistication to any ensemble",
+        "price": 300.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka1.jpg"
+    }, 
+
+    {
+        "productName": "Red and Gold plated Jhumkas",
+        "category": "Jhumkas",
+        "description": "Floral inspired, designed with a touch of traditionality in mind. ",
+        "price": 500.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka2.jpg"  
+    }, 
+    {
+        "productName": "Peacock Pearl Jhumkas",
+        "category": "Jhumkas",
+        "description": "These stunning Jhumkas feature an elegant peacock design with intricate gold detailing and pearl accents.",
+        "price": 500.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka3.jpg"  
+    }, 
+
+    {
+        "productName": "Pink Beaded Tikka",
+        "category": " Maang Tikkas",
+        "description": "This exquisite tikka features intricate gold detailing, white stones, and pink bead accents, perfect for traditional occasions.",
+        "price": 1000.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka1.webp"  
+    }, 
+
+    {
+        "productName": "Kundan Studded Tikka",
+        "category": "Maang Tikka",
+        "description": "This stylish Tikka is embedded with the finest quality stones and is suitable for any occasion.",
+        "price": 900.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka2.webp"  
+    }, 
+    
+    {
+        "productName": "Pearly Whie Tikka",
+        "category": " Maang Tikka",
+        "description": "Traditional Tikka dating back to the Mughal Empire, serves as the epitome of elegence and history.",
+        "price": 1500.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Tikka3.jpg"  
+    },
+
+    {
+        "productName": "Yellow Glass Bangles",
+        "category": "Bangles",
+        "description": "These vibrant yellow Indian bangles are adorned with intricate gold detailing and sparkling embellishments, making them a perfect accessory for festive and traditional attire.",
+        "price": 800.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Bangles1.webp"  
+    },
+
+    {
+        "productName": "Maharani Lilac Bangles",
+        "category": "Bangles",
+        "description": "Exquisite lilac bangles adorned with gold detailing and delicate hanging ornaments, perfect for adding a touch of elegance to any wedding ensemb",
+        "price": 1300.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Bangles2.jpg"  
+    },
+
+    {
+        "productName": "Golden Red Bangles",
+        "category": "Bangles",
+        "description": "Elegant red bangles with gold embellishments and charming hanging jhumkas, ideal for adding traditional beauty to any festivity.",
+        "price": 900.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Bangles3.webp"  
+    },
+
+    {
+        "productName": "Maharaja Gold-Pearl Temple Set",
+        "category": "Sets",
+        "description": "Majestic gold necklace and earring set adorned with intricate detailing and pearl embellishments, ideal for adding a touch of traditional elegance to any ceremonial attire.",
+        "price": 3500.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Set1.jpg"  
+    },
+
+    {
+        "productName":"Ruby Kundan Set",
+        "category": "Sets",
+        "description": " Exquisite Kundan jewelry set featuring intricate designs with ruby red beads and gold accents, perfect for traditional occasions.",
+        "price": 2000.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Set2.webp"  
+    },
+
+    {
+        "productName": "Emerald Mughal Set ",
+        "category": "Sets",
+        "description": " Regal Kundan jewelry set with emerald green stones and pearls, inspired by the opulence of Mughal-era craftsmanship, perfect for adding a touch of historical grandeur to any ensemble.",
+        "price": 1900.00,
+        "img_url": "https://anushqakandan.github.io/All-images/Javascript/Set3.jpeg"  
+    }
+]
+}
