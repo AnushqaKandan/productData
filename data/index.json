@@ -2,6 +2,7 @@
 
 "result": [
     {
+        "id": 1,
         "productName": "Pearl Jhumkas",
         "category": "Jhumkas",
         "description": "Timeless classics that brings a touch of sophistication to any ensemble",
@@ -10,6 +11,7 @@
     }, 
 
     {
+        "id": 2,
         "productName": "Red and Gold plated Jhumkas",
         "category": "Jhumkas",
         "description": "Floral inspired, designed with a touch of traditionality in mind. ",
@@ -17,6 +19,7 @@
         "img_url": "https://anushqakandan.github.io/All-images/Javascript/Jhumka2.jpg"  
     }, 
     {
+        "id": 3,
         "productName": "Peacock Pearl Jhumkas",
         "category": "Jhumkas",
         "description": "These stunning Jhumkas feature an elegant peacock design with intricate gold detailing and pearl accents.",
@@ -25,6 +28,7 @@
     }, 
 
     {
+        "id": 4,
         "productName": "Pink Beaded Tikka",
         "category": " Maang Tikkas",
         "description": "This exquisite tikka features intricate gold detailing, white stones, and pink bead accents, perfect for traditional occasions.",
@@ -33,6 +37,7 @@
     }, 
 
     {
+        "id": 5,
         "productName": "Kundan Studded Tikka",
         "category": "Maang Tikka",
         "description": "This stylish Tikka is embedded with the finest quality stones and is suitable for any occasion.",
@@ -41,6 +46,7 @@
     }, 
     
     {
+        "id": 6,
         "productName": "Pearly Whie Tikka",
         "category": " Maang Tikka",
         "description": "Traditional Tikka dating back to the Mughal Empire, serves as the epitome of elegence and history.",
@@ -49,6 +55,7 @@
     },
 
     {
+        "id": 7,
         "productName": "Yellow Glass Bangles",
         "category": "Bangles",
         "description": "These vibrant yellow Indian bangles are adorned with intricate gold detailing and sparkling embellishments, making them a perfect accessory for festive and traditional attire.",
@@ -57,6 +64,7 @@
     },
 
     {
+        "id": 8,
         "productName": "Maharani Lilac Bangles",
         "category": "Bangles",
         "description": "Exquisite lilac bangles adorned with gold detailing and delicate hanging ornaments, perfect for adding a touch of elegance to any wedding ensemb",
@@ -65,6 +73,7 @@
     },
 
     {
+        "id": 9,
         "productName": "Golden Red Bangles",
         "category": "Bangles",
         "description": "Elegant red bangles with gold embellishments and charming hanging jhumkas, ideal for adding traditional beauty to any festivity.",
@@ -73,6 +82,7 @@
     },
 
     {
+        "id": 10,
         "productName": "Maharaja Gold-Pearl Temple Set",
         "category": "Sets",
         "description": "Majestic gold necklace and earring set adorned with intricate detailing and pearl embellishments, ideal for adding a touch of traditional elegance to any ceremonial attire.",
@@ -81,6 +91,7 @@
     },
 
     {
+        "id": 11,
         "productName":"Ruby Kundan Set",
         "category": "Sets",
         "description": " Exquisite Kundan jewelry set featuring intricate designs with ruby red beads and gold accents, perfect for traditional occasions.",
@@ -89,6 +100,7 @@
     },
 
     {
+        "id": 12,
         "productName": "Emerald Mughal Set ",
         "category": "Sets",
         "description": " Regal Kundan jewelry set with emerald green stones and pearls, inspired by the opulence of Mughal-era craftsmanship, perfect for adding a touch of historical grandeur to any ensemble.",
